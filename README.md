@@ -10,6 +10,6 @@
 
 <p align=center>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleardizzone&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
 
 </p>
