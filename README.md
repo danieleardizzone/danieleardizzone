@@ -7,3 +7,9 @@
 
 ### Contatti
 <a href = "https://www.linkedin.com/in/daniele-ardizzone-7b22b12b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<p align=center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
+
+</p>
