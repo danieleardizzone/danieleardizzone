@@ -13,3 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleardizzone&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
 
 </p>
+
+### Linguaggi e Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,laravel,postman)](https://skillicons.dev)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleardizzone" />
