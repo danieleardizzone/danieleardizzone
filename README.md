@@ -8,14 +8,8 @@
 ### Contatti
 <a href = "https://www.linkedin.com/in/daniele-ardizzone-7b22b12b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<p align=center>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleardizzone&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
-
-</p>
-
 ### Linguaggi e Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,laravel,postman)](https://skillicons.dev)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danieleardizzone" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleardizzone&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
